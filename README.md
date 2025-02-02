@@ -12,4 +12,4 @@ Data Preprocessing: Cleaned the dataset by removing irrelevant columns and handl
 Modeling: We used AdaBoost regression to predict the mission success rate, focusing on the most influential features.
 Feature Engineering: Transformed numerical data to improve model accuracy.
 Conclusion
-This project highlights how certain mission parameters affect success rates and can guide more effective planning for space missions. The model can be further improved with more data or advanced techniques.
+This project highlights how certain mission parameters affect success rates and can guide more effective planning for space missions. 
